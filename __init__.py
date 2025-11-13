@@ -1,0 +1,1 @@
+# EGX Stock Predictor Package
